@@ -1,5 +1,16 @@
 # Jailbreaking Deep Models
 
+**Team Name: Neural Vibes**
+
+**Authors:**
+- Nishanth Kotla (nk3968@nyu.edu)
+- Shreyas Bhaktharam (sb9855@nyu.edu)
+- Ranjan Patil (sp8171@nyu.edu)
+
+*New York University*
+
+---
+
 This project systematically evaluates the vulnerability of deep convolutional neural networks (CNNs) to various adversarial attacks. We focus on ResNet-34 as the source model and test transferability on other architectures, exploring pixel-wise and patch-based attacks, and enhancing transferability techniques.
 
 ## Table of Contents
