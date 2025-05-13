@@ -196,7 +196,3 @@ data = torch.load('Adversarial_Set_X.pt')
 * Develop certified defenses against patch attacks.
 * Explore black-box optimization and universal perturbations.
 * Real-world robustness evaluation on deployed systems.
-
----
-
-*Generated on May 13, 2025*
