@@ -166,7 +166,9 @@ We introduced:
 * **Enhanced Transfer FGSM:** Transfer rate 0.514
 
 ## Results Visualized
+### Tranferability Results Comparison
 ![Transferability Results](transferability_results.png)
+### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
 
