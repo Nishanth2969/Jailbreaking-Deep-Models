@@ -165,6 +165,10 @@ We introduced:
 * **Patch (T):** 7.8% Top-1, 8.2% Top-5
 * **Enhanced Transfer FGSM:** Transfer rate 0.514
 
+## Results Visualized
+![Transferability Results](transferability_results.png)
+
+
 ## Usage and Scripts
 
 All implementations, including baseline evaluation, attacks, and analysis, are contained in a single Jupyter notebook:
