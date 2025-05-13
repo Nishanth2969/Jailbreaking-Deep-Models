@@ -10,14 +10,17 @@ This repository contains code and documentation for the project on jailbreaking 
 
 ## Large Files
 
-Due to GitHub's file size limitations, the following large files are not included in this repository:
+Due to GitHub's file size limitations, the following large files are available for download from Google Drive:
 
 - Adversarial Test Sets (*.pt files)
 - Model weights and checkpoints
 - TestDataSet.zip
 
-These files can be obtained from [insert appropriate source/contact information].
+You can download all large files from this [Google Drive folder](https://drive.google.com/drive/folders/1LpAk504AjopwytBFl87a1Qfrpx1yLnka?usp=sharing).
 
 ## Setup and Usage
 
-[Add instructions for setting up and running the project]
+1. Clone this repository
+2. Download the large files from the Google Drive link above
+3. Extract the downloaded `large_files.zip` into the root directory of the project
+4. [Add remaining setup instructions]
