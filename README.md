@@ -156,11 +156,15 @@ We introduced:
 
 ## Usage and Scripts
 
-* **Evaluation Notebook:** `jailbreak_deep_models.ipynb`
-* **Run baseline & FGSM/MI-FGSM:** `python evaluate_baseline_and_fgsm.py`
-* **Run PGD Attack:** `python run_pgd_attack.py`
-* **Run Patch Attacks:** `python run_patch_attacks.py`
-* **Transferability Analysis:** `python transferability_analysis.py`
+All implementations, including baseline evaluation, attacks, and analysis, are contained in a single Jupyter notebook:
+
+* **Main Notebook:** `DL_P3_FINAL.ipynb`
+  - Baseline model evaluation
+  - FGSM and MI-FGSM implementations
+  - PGD attack implementation
+  - Patch attack implementations
+  - Transferability analysis
+  - Results visualization and analysis
 
 **Saving/Loading Adversarial Sets:**
 ```python
