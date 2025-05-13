@@ -167,6 +167,7 @@ We introduced:
 
 ## Results Visualized
 ![Transferability Results](transferability_results.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 ## Usage and Scripts
